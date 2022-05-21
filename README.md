@@ -5,8 +5,8 @@
 | Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
 
 
-| Embeeded company name | details | training available | place |
+| Embeeded company name | Details | Training available | Place |
 | --- | --- | --- |
-| ioTech solution | IOT & Embedded systems | not Known😭 |  6th OF OCTOBER |
+| IoTech solution | IOT & Embedded systems | Not Known😭 |  6th OF OCTOBER |
 
 
