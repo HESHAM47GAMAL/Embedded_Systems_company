@@ -7,3 +7,6 @@
 | Methode Electronics | Embedded systems & .. | Not Known | .. | 
 | AION Innovations JSC | Embedded systems & IOT | Not Known | .. | 
 | PaySky | Embedded systems & .. | Not Known | .. | 
+| Mentor Graphics | Embedded systems & .. | Not Known | .. | 
+| Seitech solutions | Embedded systems & .. | Not Known | .. | 
+
