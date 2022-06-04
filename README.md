@@ -9,4 +9,4 @@
 | PaySky | Embedded systems & .. | Not Known | .. | 
 | Mentor Graphics | Embedded systems & .. | Not Known | .. | 
 | Seitech solutions | Embedded systems & .. | Not Known | .. | 
-
+| APPRAID TECH | Embedded systems & .. | Not Known | .. |
