@@ -10,3 +10,4 @@
 | Mentor Graphics | Embedded systems & .. | Not Known | .. | 
 | Seitech solutions | Embedded systems & .. | Not Known | .. | 
 | APPRAID TECH | Embedded systems & .. | Not Known | .. |
+| SensEar Glasses | Embedded systems & biomedical healp for Deaf and dumb | Not Known | Nasr city |
