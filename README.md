@@ -13,3 +13,5 @@
 | SensEar Glasses | Embedded systems & biomedical healp for Deaf and dumb | Not Known | Nasr city |
 | capgemini | Embedded systems , global leader in consulting & technology services | Not Known | .. |
 | vehiclevo Egypt LLC | Embedded systems ,& automotive| Not Known | Egypt, Giza |
+| QUANTTRONIX | Embedded systems ,& automotive| Not Known | Egypt, Giza |
+| Arrow Electronics | Embedded systems ,& automotive| Not Known | Egypt, Giza |
