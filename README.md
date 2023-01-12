@@ -21,3 +21,4 @@
 | European Recruitment | Embedded systems & autonomous | Not Known |  |
 |Airbus | Embedded systems  | Not Known | abroad |
 | Dice | Embedded systems  | Not Known | abroad |
+| HCLTech | Embedded systems  | Not Known | abroad |
