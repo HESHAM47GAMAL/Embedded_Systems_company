@@ -23,3 +23,4 @@
 | Dice | Embedded systems  | Not Known | abroad |
 | HCLTech | Embedded systems  | Not Known | abroad |
 | IC Resources | Embedded systems  & IOT | Not Known | abroad |
+| Tata Technologies | Embedded systems  & IOT | Not Known | abroad |
