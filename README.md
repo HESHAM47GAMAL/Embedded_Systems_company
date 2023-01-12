@@ -17,3 +17,6 @@
 | Arrow Electronics | Embedded systems ,& automotive| Not Known | |
 | Expleo Group | Embedded systems ,& automotive| Not Known |  |
 | Techfueld |Autonomous Driving  ,Infotainment & Connectivity  ,Embedded software ,AI and Navigation | Not Known |  |
+| Luxoft | Embedded systems ,& automotive| Not Known |  |
+| European Recruitment | Embedded systems & autonomous | Not Known |  |
+|Airbus | Embedded systems  | Not Known | abroad |
