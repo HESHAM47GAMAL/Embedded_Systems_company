@@ -16,3 +16,4 @@
 | QUANTTRONIX | Embedded systems ,& automotive| Not Known | Egypt, Giza |
 | Arrow Electronics | Embedded systems ,& automotive| Not Known | |
 | Expleo Group | Embedded systems ,& automotive| Not Known |  |
+| Techfueld |Autonomous Driving  ,Infotainment & Connectivity  ,Embedded software ,AI and Navigation | Not Known |  |
