@@ -24,3 +24,4 @@
 | HCLTech | Embedded systems  | Not Known | abroad |
 | IC Resources | Embedded systems  & IOT | Not Known | abroad |
 | Tata Technologies | Embedded systems  & IOT | Not Known | abroad |
+| smart robotics | ROS | Not Known | abroad |
