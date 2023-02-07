@@ -27,4 +27,4 @@
 | smart robotics | ROS | Not Known | abroad |
 |Magna International | Embedded systems | Not Known | Germen |
 | EDAG Group | Embedded systems | Not Known | Germen |
-| dcscorp | Embedded systems & ROS | Not Known | Alex & california |
+| dcscorp | Embedded systems & ROS for arms🙃 | Not Known | Alexandria, Virginia |
