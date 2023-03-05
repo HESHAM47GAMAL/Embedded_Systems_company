@@ -28,3 +28,5 @@
 |Magna International | Embedded systems | Not Known | Germen |
 | EDAG Group | Embedded systems | Not Known | Germen |
 | dcscorp | Embedded systems & ROS for arms🙃 | Not Known | Alexandria, Virginia |
+| egyrobo |
+||
