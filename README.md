@@ -30,3 +30,4 @@
 | dcscorp | Embedded systems & ROS for arms🙃 | Not Known | Alexandria, Virginia |
 | egyrobo |
 | CyTwin Lab |  Embedded systems | Not Known | Heliopolis, Cairo |
+| Smart Life |  Embedded systems | Not Known | Heliopolis, Cairo |
