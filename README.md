@@ -32,3 +32,4 @@
 | CyTwin Lab |  Embedded systems | Not Known | Heliopolis, Cairo |
 | Smart Life |  Embedded systems | Not Known | Heliopolis, Cairo |
 | Alefbits |  Embedded systems | Not Known | Heliopolis October, Cairo |
+| Pylon (YC S21) |  Embedded systems and smart meter  | Not Known | 61 Syria Street, El Mohandseen |
