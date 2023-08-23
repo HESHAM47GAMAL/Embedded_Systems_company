@@ -36,4 +36,5 @@
 | VxLabs |  Embedded systems/ c++ | Not Known | Not Known |
 | GreenMEA |  Embedded systems | Not Known | Not Known |
 | Cognizant |  Embedded systems | Not Known | Remote Egypt |
+| Dakahlia Group |  Embedded systems & IOT & ROS | Not Known | Nasr city  |
 
