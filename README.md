@@ -38,3 +38,4 @@
 | Cognizant |  Embedded systems | Not Known | Remote Egypt |
 | Dakahlia Group |  Embedded systems & IOT & ROS | Not Known | Nasr city  |
 | EITESAL NGO |  Embedded systems  | Not Known | Not Known  |
+| MCS |  Embedded systems  | Not Known | Not Known  |
