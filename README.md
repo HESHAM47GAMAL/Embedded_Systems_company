@@ -39,3 +39,4 @@
 | Dakahlia Group |  Embedded systems & IOT & ROS | Not Known | Nasr city  |
 | EITESAL NGO |  Embedded systems  | Not Known | Not Known  |
 | MCS |  Embedded systems  | Not Known | Not Known  |
+| Tahaluf Al Emarat Technical Solutions تحالف الإمارات للحلول التقنية |  Embedded systems  / C++ /ROS | Not Known | Remote  |
