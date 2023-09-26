@@ -9,7 +9,7 @@
 | PaySky | Embedded systems & .. | Not Known | .. | 
 | Mentor Graphics | Embedded systems & .. | Not Known | .. | 
 | Seitech solutions | Embedded systems & .. | Not Known | .. | 
-| APPRAID TECH | Embedded systems & .. | Not Known | .. |
+| APPRAID TECH | Embedded systems & .. | Not Known | Smart Village |
 | SensEar Glasses | Embedded systems & biomedical healp for Deaf and dumb | Not Known | Nasr city |
 | capgemini | Embedded systems , global leader in consulting & technology services | Not Known | .. |
 | vehiclevo Egypt LLC | Embedded systems ,& automotive| Not Known | Egypt, Giza |
@@ -49,5 +49,17 @@
 |  Talent 360 Egypt |  Embedded   | Not Known | Cairo |
 |  Cyshield |  Embedded   | Not Known | Cairo |
 |  El-Sewedy Electrometer |  Embedded /RTOS   | Not Known | 6th of October City |
+|  Oinride | ROS | Not Known | Cairo, Egypt  |
 |  Sigma Engineering |  Embedded   | Not Known | Obour city |
 |  SSC Egypt |  Embedded   | Not Known | Basateen |
+|  Elmanar for embedded system |  Embedded   | Not Known | Haram |
+|  EmbeddedFab |  Embedded   | Not Known |  El-Dokki |
+|  CrewTeQ |  Embedded /AUTOSAR  | Not Known |  Maadi |
+|  Smarterminds |  Embedded /AUTOSAR  | Not Known |  El Sheikh Zaid /Giza, Al Jizah, Egypt |
+|  mit technologies |  Embedded  | available ⚡ |  Heliopolis, Cairo |
+|  Canonical |  Embedded /IOT  | Not Known | Cairo |
+|  Affectiva |  Embedded /IOT  | Not Known | Cairo |
+|  Smart Eye |  Embedded   | Not Known | New Heliopolis |
+|  ACTIA Engineering Services |  Embedded   | Not Known | Not Known |
+|  CrossWorkers |  Embedded   | Not Known | Not Known |
+|  avelabs |  Embedded   | Not Known | Maadi  |
