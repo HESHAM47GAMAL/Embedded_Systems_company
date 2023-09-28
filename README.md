@@ -63,3 +63,6 @@
 |  ACTIA Engineering Services |  Embedded   | Not Known | Not Known |
 |  CrossWorkers |  Embedded   | Not Known | Not Known |
 |  avelabs |  Embedded   | Not Known | Maadi  |
+|  SMG |  Embedded   | Not Known | Sheikh Zayed |
+|  Si-Vision |  Embedded   | Not Known | Sheikh Zayed |
+
