@@ -65,4 +65,4 @@
 |  avelabs |  Embedded   | Not Known | Maadi  |
 |  SMG |  Embedded   | Not Known | Sheikh Zayed |
 |  Si-Vision |  Embedded   | Not Known | Sheikh Zayed |
-
+|  Cairomotive |  Embedded   | Not Known | nasser city |
