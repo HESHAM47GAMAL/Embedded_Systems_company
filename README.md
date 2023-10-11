@@ -70,3 +70,4 @@
 | Wakeb_Data |  ROS   | Not Known | Al Riyadh saudia |
 | MARSES Robotics |  ROS   | Not Known | Ashmon, Cairo, Heliopolis |
 | Nilux GmbH |  Embedded bootloader & AUTOSAR   | Not Known | Ashmon, Cairo, Heliopolis |
+| SSTM – Simply Smart |  Embedded & IOT  | Not Known | Imbaba, Giza  |
