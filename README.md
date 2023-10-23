@@ -71,3 +71,4 @@
 | MARSES Robotics |  ROS   | Not Known | Ashmon, Cairo, Heliopolis |
 | Nilux GmbH |  Embedded bootloader & AUTOSAR   | Not Known | Ashmon, Cairo, Heliopolis |
 | SSTM – Simply Smart |  Embedded & IOT  | Not Known | Imbaba, Giza  |
+| Quadraticx |  Embedded & IOT & robotics  | Not Known | Heliopolis, Cairo  |
