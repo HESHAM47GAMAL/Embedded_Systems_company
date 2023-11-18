@@ -5,7 +5,7 @@
 | IoTech solution | IOT & Embedded systems | Not Known | 6th OF OCTOBER |
 | Valeo | Embedded systems & ML &.. | available ⚡ | smart vallige | 
 | Methode Electronics | Embedded systems & .. | Not Known | .. | 
-| AION Innovations JSC | Embedded systems & IOT | Not Known | .. | 
+| AION Innovations JSC | Embedded systems & IOT | Not Known | Dokki, Giza  | 
 | PaySky | Embedded systems & .. | Not Known | .. | 
 | Mentor Graphics | Embedded systems & .. | Not Known | .. | 
 | Seitech solutions | Embedded systems & .. | Not Known | .. | 
