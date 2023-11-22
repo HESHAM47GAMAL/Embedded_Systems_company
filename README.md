@@ -74,3 +74,4 @@
 | Quadraticx |  Embedded & IOT & robotics  | Not Known | Heliopolis, Cairo  |
 | Sigma Embedded Engineering |  Embedded & IOT & ROS | https://sigma.eg/ | Sheikh Zayed City, Egypt  |
 | Garraio, LLC |  Embedded & AUTOSAR |  | cairo, Egypt  |
+| Coretech Innovations  |  Embedded & AUTOSAR |  | cairo, Egypt  |
