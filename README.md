@@ -78,3 +78,4 @@
 | BEDO Innovating Education  |  Embedded |  |  6th of October City  |
 | Iskraemeco  |  Embedded |  |  New cairo  |
 | Gridblox  |  Embedded |  |   El Sheikh Zaid  |
+
