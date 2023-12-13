@@ -79,4 +79,4 @@
 | Iskraemeco  |  Embedded |  |  New cairo  |
 | Gridblox  |  Embedded |  |   El Sheikh Zaid  |
 | E.VISION for information Technology  |  Embedded & IOT |  |  New Cairo  |
-
+| Amjaad Technology |  Embedded & smart meters |  |  Cairo  |
