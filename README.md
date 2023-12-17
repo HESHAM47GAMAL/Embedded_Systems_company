@@ -81,3 +81,6 @@
 | E.VISION for information Technology  |  Embedded & IOT |  |  New Cairo  |
 | Amjaad Technology |  Embedded & smart meters |  |  Cairo  |
 | ofaly |  Embedded & smart meters |  |  Alexandria  |
+| Drop Me |  Embedded  |  |  Cairo  |
+| IEGco-Engineering Industries |  Embedded  |  |  Maadi, Cairo  |
+
