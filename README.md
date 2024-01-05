@@ -82,5 +82,5 @@
 | Amjaad Technology |  Embedded & smart meters |  |  Cairo  |
 | ofaly |  Embedded & smart meters |  |  Alexandria  |
 | Drop Me |  Embedded  |  |  Cairo  |
-| IEGco-Engineering Industries |  Embedded  |  |  Maadi, Cairo  |
-
+| IEGco-Engineering Industries |  Embedded   |  Maadi, Cairo  |
+| Tatbeek |  Embedded  / IOT  |  Maadi, Cairo  |
