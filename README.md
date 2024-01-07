@@ -84,3 +84,4 @@
 | Drop Me |  Embedded  |  |  Cairo  |
 | IEGco-Engineering Industries |  Embedded   |  Maadi, Cairo  |
 | Tatbeek |  Embedded  / IOT  |  Maadi, Cairo  |
+| Sumitomo Electric Egypt |  Embedded   |  Egypt  |
