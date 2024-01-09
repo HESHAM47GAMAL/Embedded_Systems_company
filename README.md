@@ -73,7 +73,7 @@
 | SSTM – Simply Smart |  Embedded & IOT  | Not Known | Imbaba, Giza  |
 | Quadraticx |  Embedded & IOT & robotics  | Not Known | Heliopolis, Cairo  |
 | Sigma Embedded Engineering |  Embedded & IOT & ROS | https://sigma.eg/ | Sheikh Zayed City, Egypt  |
-| Garraio, LLC |  Embedded & AUTOSAR |  | cairo, Egypt  |
+| Garraio, LLC |  Embedded & AUTOSAR | Not Known |  cairo, Egypt  |
 | Coretech Innovations  |  Embedded & AUTOSAR |  | cairo, Egypt  |
 | BEDO Innovating Education  |  Embedded |  |  6th of October City  |
 | Iskraemeco  |  Embedded |  |  New cairo  |
@@ -82,23 +82,23 @@
 | Amjaad Technology |  Embedded & smart meters |  |  Cairo  |
 | ofaly |  Embedded & smart meters |  |  Alexandria  |
 | Drop Me |  Embedded  |  |  Cairo  |
-| IEGco-Engineering Industries |  Embedded   |  Maadi, Cairo  |
-| Tatbeek |  Embedded  / IOT  |  Maadi, Cairo  |
-| Sumitomo Electric Egypt |  Embedded   |  Egypt  |
-| BioBusiness |  Embedded & medical devices  |  Giza  |
-| Al Amin Technological Systems |  Embedded & E payment  |  Heliopolis, Cairo  |
-| Al Manar |  Embedded   |  Al Haram, Giza  |
-| IDACO |  Embedded  |  6th of October, Giza  |
-| ATI Systems |  Embedded  |  Cairo ,Egypt  |
-| Alfa Electronics |  Embedded  |  	Heliopolis, Cairo |
-| Ejad |  Embedded  |  	Heliopolis, Cairo |
-| Brightskies |  Embedded  |  Smart Village, Giza & Alexandria |
-| El Sewedy Electrometer	 |  Embedded  |  	6th of October, Giza|
-| Goodix Egypt |  Embedded  |  	Heliopolis , Cairo EG |
-| Si-Ware Systems |  Embedded  |  	Cairo EG |
-| Softlock |  Embedded  |  Nasr City, Cairo |
-| Swift Act |  Embedded  |  	cairo ,smart vallige  & Assuit|
-| Thirdwayv |  Embedded & IoT |  	Heliopolis , Cairo EG |
-| TTC Technologies Ltd |  Embedded  |  	Helioplolis,, Cairo |
-| SPECTRO SYSTEMS |  Embedded  |  	Heliopolis , Cairo EG |
-| STMicroelectronics |  Embedded  |  	Maadi |
+| IEGco-Engineering Industries |  Embedded   | |  Maadi, Cairo  |
+| Tatbeek |  Embedded  / IOT  | |  Maadi, Cairo  |
+| Sumitomo Electric Egypt |  Embedded  |  |  Egypt  |
+| BioBusiness |  Embedded & medical devices |  |  Giza  |
+| Al Amin Technological Systems |  Embedded & E payment |  |  Heliopolis, Cairo  |
+| Al Manar |  Embedded  |  |  Al Haram, Giza  |
+| IDACO |  Embedded  | |  6th of October, Giza  |
+| ATI Systems |  Embedded  | |  Cairo ,Egypt  |
+| Alfa Electronics |  Embedded  | |  	Heliopolis, Cairo |
+| Ejad |  Embedded |  |  	Heliopolis, Cairo |
+| Brightskies |  Embedded |  |  Smart Village, Giza & Alexandria |
+| El Sewedy Electrometer	 |  Embedded  |  | 	6th of October, Giza|
+| Goodix Egypt |  Embedded  |  |  	Heliopolis , Cairo EG |
+| Si-Ware Systems |  Embedded  |  |  	Cairo EG |
+| Softlock |  Embedded  |  |  Nasr City, Cairo |
+| Swift Act |  Embedded  |  |	cairo ,smart vallige  & Assuit|
+| Thirdwayv |  Embedded & IoT |    |	Heliopolis , Cairo EG |
+| TTC Technologies Ltd |  Embedded  |    |	Helioplolis,, Cairo |
+| SPECTRO SYSTEMS |  Embedded  |   |	Heliopolis , Cairo EG |
+| STMicroelectronics |  Embedded  |  |  	Maadi |
