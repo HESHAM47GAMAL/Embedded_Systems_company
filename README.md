@@ -89,7 +89,7 @@
 | Al Amin Technological Systems |  Embedded & E payment |  |  Heliopolis, Cairo  |
 | Al Manar |  Embedded  |  |  Al Haram, Giza  |
 | IDACO |  Embedded  | |  6th of October, Giza  |
-| ATI Systems |  Embedded  | |  Cairo ,Egypt  |
+| ATI Systems	 |  Embedded  | |  Cairo ,Egypt  |
 | Alfa Electronics |  Embedded  | |  	Heliopolis, Cairo |
 | Ejad |  Embedded |  |  	Heliopolis, Cairo |
 | Brightskies |  Embedded |  |  Smart Village, Giza & Alexandria |
@@ -100,5 +100,14 @@
 | Swift Act |  Embedded  |  |	cairo ,smart vallige  & Assuit|
 | Thirdwayv |  Embedded & IoT |    |	Heliopolis , Cairo EG |
 | TTC Technologies Ltd |  Embedded  |    |	Helioplolis,, Cairo |
-| SPECTRO SYSTEMS |  Embedded  |   |	Heliopolis , Cairo EG |
+| SPECTRO SYSTEMS |  Embedded  |   |	Maadi, Egypt |
 | STMicroelectronics |  Embedded  |  |  	Maadi |
+| Tekomoro |  ROS & Automotive   |  |  	- |
+| Axxcelera Egypt Broadband Wireless |  Embedded  |  |  Maadi  |
+| CONSULTIX |  Embedded  |  |  New Cairo City, Cairo  |
+| EOIP (The Engineering Office for Integrated Projects) |  Embedded  |  |  Maadi  |
+| GlobalTronics |  Embedded  |  |  6 October City  |
+| Egyptian Smart Meters Company |  Embedded  |  |   6 October City |
+| Smartec System |  Embedded  |  |   Dokki, Giza |
+| TECO |  Embedded  |  |   Heliopolis |
+
