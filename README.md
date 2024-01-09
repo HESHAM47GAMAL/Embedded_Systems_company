@@ -19,13 +19,13 @@
 | Techfueld |Autonomous Driving  ,Infotainment & Connectivity  ,Embedded software ,AI and Navigation | Not Known |  |
 | Luxoft | Embedded systems ,& automotive| Not Known |  |
 | European Recruitment | Embedded systems & autonomous | Not Known |  |
-|Airbus | Embedded systems  | Not Known | abroad |
+| Airbus | Embedded systems  | Not Known | abroad |
 | Dice | Embedded systems  | Not Known | abroad |
 | HCLTech | Embedded systems  | Not Known | abroad |
 | IC Resources | Embedded systems  & IOT | Not Known | abroad |
 | Tata Technologies | Embedded systems  & IOT | Not Known | abroad |
 | smart robotics | ROS | Not Known | abroad |
-|Magna International | Embedded systems | Not Known | Germen |
+| Magna International | Embedded systems | Not Known | Germen |
 | EDAG Group | Embedded systems | Not Known | Germen |
 | dcscorp | Embedded systems & ROS for arms🙃 | Not Known | Alexandria, Virginia |
 | egyrobo |
@@ -86,3 +86,19 @@
 | Tatbeek |  Embedded  / IOT  |  Maadi, Cairo  |
 | Sumitomo Electric Egypt |  Embedded   |  Egypt  |
 | BioBusiness |  Embedded & medical devices  |  Giza  |
+| Al Amin Technological Systems |  Embedded & E payment  |  Heliopolis, Cairo  |
+| Al Manar |  Embedded   |  Al Haram, Giza  |
+| IDACO |  Embedded  |  6th of October, Giza  |
+| ATI Systems |  Embedded  |  Cairo ,Egypt  |
+| Alfa Electronics |  Embedded  |  	Heliopolis, Cairo |
+| Ejad |  Embedded  |  	Heliopolis, Cairo |
+| Brightskies |  Embedded  |  Smart Village, Giza & Alexandria |
+| El Sewedy Electrometer	 |  Embedded  |  	6th of October, Giza|
+| Goodix Egypt |  Embedded  |  	Heliopolis , Cairo EG |
+| Si-Ware Systems |  Embedded  |  	Cairo EG |
+| Softlock |  Embedded  |  Nasr City, Cairo |
+| Swift Act |  Embedded  |  	cairo ,smart vallige  & Assuit|
+| Thirdwayv |  Embedded & IoT |  	Heliopolis , Cairo EG |
+| TTC Technologies Ltd |  Embedded  |  	Helioplolis,, Cairo |
+| SPECTRO SYSTEMS |  Embedded  |  	Heliopolis , Cairo EG |
+| STMicroelectronics |  Embedded  |  	Maadi |
