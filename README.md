@@ -112,3 +112,4 @@
 | TECO |  Embedded  |  |   Heliopolis |
 | CyTwinLab |  Embedded  |  |   Heliopolis |
 | Security Innovation Egypt |  Embedded  |  |  Nasr city |
+| Shift EV |  Embedded  |  | 6 october city |
