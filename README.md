@@ -111,3 +111,4 @@
 | Smartec System |  Embedded  |  |   Dokki, Giza |
 | TECO |  Embedded  |  |   Heliopolis |
 | CyTwinLab |  Embedded  |  |   Heliopolis |
+| Security Innovation Egypt |  Embedded  |  |  Nasr city |
