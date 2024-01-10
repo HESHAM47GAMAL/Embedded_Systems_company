@@ -110,4 +110,4 @@
 | Egyptian Smart Meters Company |  Embedded  |  |   6 October City |
 | Smartec System |  Embedded  |  |   Dokki, Giza |
 | TECO |  Embedded  |  |   Heliopolis |
-
+| CyTwinLab |  Embedded  |  |   Heliopolis |
