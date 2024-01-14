@@ -9,7 +9,7 @@
 | PaySky | Embedded systems & .. | Not Known | .. | 
 | Mentor Graphics | Embedded systems & .. | Not Known | .. | 
 | Seitech solutions | Embedded systems & .. | Not Known | .. | 
-| APPRAID TECH | Embedded systems & .. | Not Known | Smart Village |
+| APPRAID TECH / APPRAID EV| Embedded systems & .. | Not Known | Smart Village |
 | SensEar Glasses | Embedded systems & biomedical healp for Deaf and dumb | Not Known | Nasr city |
 | capgemini | Embedded systems , global leader in consulting & technology services | Not Known | .. |
 | vehiclevo Egypt LLC | Embedded systems ,& automotive| Not Known | Egypt, Giza |
