@@ -115,3 +115,4 @@
 | Shift EV |  Embedded  |  | 6 october city |
 | solkit engineering |  Embedded  |  |  El Khalifa, Cairo |
 | Green Electronics |  Embedded  |  | Lazoughly, Cairo |
+| Notchbit |  Embedded  |  |  |
