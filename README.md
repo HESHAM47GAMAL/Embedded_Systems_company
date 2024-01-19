@@ -116,3 +116,4 @@
 | solkit engineering |  Embedded  |  |  El Khalifa, Cairo |
 | Green Electronics |  Embedded  |  | Lazoughly, Cairo |
 | Notchbit |  Embedded  |  |  |
+| AGAD Technology |  Embedded  |  | Cairo  |
