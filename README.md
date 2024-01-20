@@ -117,3 +117,5 @@
 | Green Electronics |  Embedded  |  | Lazoughly, Cairo |
 | Notchbit |  Embedded  |  |  |
 | AGAD Technology |  Embedded  |  | Cairo  |
+| AMAN Holding |  Embedded  |  | Cairo  |
+| Fac.Tec |  Embedded  |  | obour  |
