@@ -119,3 +119,4 @@
 | AGAD Technology |  Embedded  |  | Cairo  |
 | AMAN Holding |  Embedded  |  | Cairo  |
 | Fac.Tec |  Embedded  |  | obour  |
+| Dezign Arena |  Embedded  |  |  sheikh zayed, EG  |
