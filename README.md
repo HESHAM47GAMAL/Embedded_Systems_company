@@ -120,3 +120,4 @@
 | AMAN Holding |  Embedded  |  | Cairo  |
 | Fac.Tec |  Embedded  |  | obour  |
 | Dezign Arena |  Embedded  |  |  sheikh zayed, EG  |
+| Water Money Saver |  IOT  |  |  Cairo  |
