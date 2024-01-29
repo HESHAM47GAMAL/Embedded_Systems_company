@@ -26,7 +26,7 @@
 | Tata Technologies | Embedded systems  & IOT | Not Known | abroad |
 | smart robotics | ROS | Not Known | abroad |
 | Magna International | Embedded systems | Not Known | Germen |
-| EDAG Group | Embedded systems | Not Known | Germen |
+| EDAG Group | Embedded systems | Not Known |  |
 | dcscorp | Embedded systems & ROS for arms🙃 | Not Known | Alexandria, Virginia |
 | egyrobo |
 | CyTwin Lab |  Embedded systems | Not Known | Heliopolis, Cairo |
@@ -121,3 +121,4 @@
 | Fac.Tec |  Embedded  |  | obour  |
 | Dezign Arena |  Embedded  |  |  sheikh zayed, EG  |
 | Water Money Saver |  IOT  |  |  Cairo  |
+| KINNOVIA |  Embedded  |  |  Cairo  |
