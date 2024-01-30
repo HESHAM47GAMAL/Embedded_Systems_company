@@ -122,3 +122,4 @@
 | Dezign Arena |  Embedded  |  |  sheikh zayed, EG  |
 | Water Money Saver |  IOT  |  |  Cairo  |
 | KINNOVIA |  Embedded  |  |  Cairo  |
+| eInfochips (An Arrow Company) |  Embedded  |  |  Cairo  |
