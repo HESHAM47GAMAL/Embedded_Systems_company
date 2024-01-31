@@ -124,3 +124,9 @@
 | KINNOVIA |  Embedded  |  |  Cairo  |
 | eInfochips (An Arrow Company) |  Embedded  |  |  Cairo  |
 | Pulse for Integrated Solutions GmbH |  Embedded & Biomedical  |  |  6 th Octobor  |
+| MediNeeds |  Embedded & Biomedical  |  | Al Jizah, Egypt   |
+| Open Minds CIT |  Embedded & IOT  |  | Maadi    |
+| Z2Data |  Embedded   |  | Nasr city  |
+| Electrolux |  Embedded & IOT  |  | 10th Ramadan |
+| EDGE TECHNOLOGY IOT |  Embedded & IOT  |  | El Mohandessin, Al Jizah |
+
