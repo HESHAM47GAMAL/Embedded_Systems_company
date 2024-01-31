@@ -123,3 +123,4 @@
 | Water Money Saver |  IOT  |  |  Cairo  |
 | KINNOVIA |  Embedded  |  |  Cairo  |
 | eInfochips (An Arrow Company) |  Embedded  |  |  Cairo  |
+| Pulse for Integrated Solutions GmbH |  Embedded & Biomedical  |  |  6 th Octobor  |
