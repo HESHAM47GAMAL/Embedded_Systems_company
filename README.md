@@ -130,3 +130,4 @@
 | Electrolux |  Embedded & IOT  |  | 10th Ramadan |
 | EDGE TECHNOLOGY IOT |  Embedded & IOT  |  | El Mohandessin, Al Jizah |
 | iSynclouds |  Embedded & IOT  |  | Cairo / Riyadh |
+| Intellias |  Embedded & AUTOSAR  |  | Cairo  |
