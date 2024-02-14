@@ -3,7 +3,6 @@
 |Embeeded company name | Details | Training available | Place | Jobs Check |
 | :---: | :---: | :---: | :---: | :---: |
 | Envision Employment Solutions |  Embedded classic & Linux & C++ |  |  New Heliopolis  |<p>linkedin<a href="https://www.linkedin.com/company/envision-employment-solutions/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3B42fdf20f-172f-4be5-b21a-43109958725a" >🔗</a> OR Company site career<a href="https://jobs.lever.co/envisionemploymentsolutions" >🔗</a></p> |
-
 | IoTech solution | IOT & Embedded systems | Not Known | 6th OF OCTOBER |
 | Valeo | Embedded systems & ML &.. | available ⚡ | smart vallige | 
 | Methode Electronics | Embedded systems & .. | Not Known | .. | 
