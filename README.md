@@ -7,7 +7,7 @@
 | Hashlist | IOT & Embedded systems | 6th OF OCTOBER | <p>linkedin<a href="https://www.linkedin.com/company/talentrator/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3Bc4246d56-2bea-4d6c-8891-9b766bd385c8" >🔗</a> OR Company site career :N/A</p>|
 | IoTech solution | IOT & Embedded systems | 6th OF OCTOBER |<p>linkedin<a href="https://www.linkedin.com/company/iotech-solutions-eg/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3Bc4246d56-2bea-4d6c-8891-9b766bd385c8" >🔗</a> OR Company site career :N/A</p>|
 | Valeo | Embedded systems & ML &.. | smart vallige | <p>linkedin<a href="https://www.linkedin.com/company/valeo/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3B66e2e0c4-161e-4020-9595-361e14deb1d2" >🔗</a> OR Company site career<a href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/details/System-Engineer--Junior-Standard-Senior--THS_REQ2023002865?locationCountry=d865e83093ad42319653b08e61f7db49" >🔗</a></p> |
-| Methode Electronics | Embedded systems & .. | Not Known | .. | 
+| Methode Electronics | Embedded systems & .. | Egypt | <p>linkedin<a href="https://www.linkedin.com/company/methode-electronics/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3B7cc5229f-94c7-41cf-97b1-5421e5681eb0" >🔗</a> OR Company site career<a href="https://methode.com/careers/career-paths/" >🔗</a></p> |
 | AION Innovations JSC | Embedded systems & IOT | Not Known | Dokki, Giza  | 
 | PaySky | Embedded systems & .. | Not Known | .. | 
 | Mentor Graphics | Embedded systems & .. | Not Known | .. | 
