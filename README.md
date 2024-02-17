@@ -11,11 +11,11 @@
 | AION Innovations JSC | Embedded systems & IOT | Not Known | Dokki, Giza  | 
 | PaySky | Embedded systems & .. | Not Known | .. | 
 | Mentor Graphics | Embedded systems & .. | Not Known | .. | 
-| Seitech solutions | Embedded systems & .. | Not Known | .. | 
-| APPRAID TECH / APPRAID EV| Embedded systems & .. | Not Known | Smart Village |
+| Seitech solutions | Embedded systems & .. | Cairo  | <p>linkedin<a href="https://www.linkedin.com/company/seitech-solutions-eg/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3Badce6b4a-7166-42eb-b1f0-fbe77d280a4b" >🔗</a> OR Company site career<a href="https://seitech-solutions.odoo.com/jobs" >🔗</a></p> |
+| APPRAID TECH / APPRAID EV| Embedded systems & .. | Smart Village | <p>linkedin<a href="https://www.linkedin.com/company/appraid-llc/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3Badce6b4a-7166-42eb-b1f0-fbe77d280a4b" >🔗</a> OR Company site career<a href="https://appraid-llc-sh.odoo.com/jobs" >🔗</a></p> |
 | SensEar Glasses | Embedded systems & biomedical healp for Deaf and dumb | Not Known | Nasr city |
 | capgemini | Embedded systems , global leader in consulting & technology services | Not Known | .. |
-| vehiclevo Egypt LLC | Embedded systems ,& automotive| Not Known | Egypt, Giza |
+| vehiclevo Egypt LLC | Embedded systems ,& automotive| Egypt, Giza |<p>linkedin<a href="https://www.linkedin.com/company/vehiclevo/jobs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3BntCwRDfeQHyzgBgBgMzNog%3D%3D" >🔗</a> OR Company site career<a href="https://vehiclevo.de/work-with-us/careers/" >🔗</a></p> |
 | QUANTTRONIX | Embedded systems ,& automotive| Not Known | Egypt, Giza |
 | Arrow Electronics | Embedded systems & automotive| Not Known |Cairo  |
 | Expleo Group | Embedded systems ,& automotive| Not Known |  |
