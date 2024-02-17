@@ -82,7 +82,7 @@
 | Iskraemeco  |  Embedded |  |  New cairo  |
 | Gridblox  |  Embedded |  |   El Sheikh Zaid  |
 | E.VISION for information Technology  |  Embedded & IOT |  |  New Cairo  |
-| Amjaad Technology |  Embedded & smart meters |  Cairo  ||<p>linkedin<a href="https://www.linkedin.com/company/amjaadtechnology/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3B9b240aa3-3fab-4910-ac79-be522a1df2bc" >🔗</a> OR Company site career:N/A</p> |
+| Amjaad Technology |  Embedded & smart meters |  Cairo  |<p>linkedin<a href="https://www.linkedin.com/company/amjaadtechnology/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3B9b240aa3-3fab-4910-ac79-be522a1df2bc" >🔗</a> OR Company site career:N/A</p> |
 | ofaly |  Embedded & smart meters |  |  Alexandria  |
 | Drop Me |  Embedded  |  |  Cairo  |
 | IEGco-Engineering Industries |  Embedded   | |  Maadi, Cairo  |
