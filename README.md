@@ -19,8 +19,7 @@
 | QUANTTRONIX | Embedded systems ,& automotive| Egypt, Giza |<p>linkedin<a href="https://www.linkedin.com/company/quanttronix/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3Ba4441943-433b-4aa3-a8e3-fc7ba83c350f" >🔗</a> OR Company site career<a href="https://quanttronix.com/" >🔗</a></p> |
 | Arrow Electronics | Embedded systems & automotive| Cairo  |<p>linkedin<a href="https://www.linkedin.com/company/arrow-electronics/jobs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3B0MNnGE44QZSSUoIGlWFYQQ%3D%3D" >🔗</a> OR Company site career<a href="https://careers.arrow.com/us/en/technical" >🔗</a></p> |
 | Expleo Group | Embedded systems ,& automotive| Egypt | <p>linkedin<a href="https://www.linkedin.com/company/expleo-group/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_about_index%3Ba4441943-433b-4aa3-a8e3-fc7ba83c350f" >🔗</a> OR Company site career<a href="https://careers-expleo-jobs.icims.com/jobs/search?pr=0&searchLocation=13049&schemaId=&o=" >🔗</a></p> |
-| Techfueld |Autonomous Driving  ,Infotainment & Connectivity  ,Embedded software ,AI and Navigation | Not Known |  |
-| Luxoft | Embedded systems ,& automotive| Not Known |  |
+| Luxoft | Embedded systems ,& automotive| Egypt  | <p>linkedin<a href="https://www.linkedin.com/company/luxoft/jobs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3BmPv1qy91TteJ4mXmyB683Q%3D%3D" >🔗</a> OR Company site career<a href="https://career.luxoft.com/job-opportunities/?arrFilter_ff%5BNAME%5D=&countryID%5B%5D=1894&set_filter=Y#filter-form" >🔗</a></p> |
 | European Recruitment | Embedded systems & autonomous | Not Known |  |
 | Airbus | Embedded systems  | Not Known | abroad |
 | Dice | Embedded systems  | Not Known | abroad |
