@@ -16,9 +16,9 @@
 | SensEar Glasses | Embedded systems & biomedical healp for Deaf and dumb | Not Known | Nasr city |
 | capgemini | Embedded systems , global leader in consulting & technology services | Not Known | .. |
 | vehiclevo Egypt LLC | Embedded systems ,& automotive| Egypt, Giza |<p>linkedin<a href="https://www.linkedin.com/company/vehiclevo/jobs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3BntCwRDfeQHyzgBgBgMzNog%3D%3D" >🔗</a> OR Company site career<a href="https://vehiclevo.de/work-with-us/careers/" >🔗</a></p> |
-| QUANTTRONIX | Embedded systems ,& automotive| Not Known | Egypt, Giza |
-| Arrow Electronics | Embedded systems & automotive| Not Known |Cairo  |
-| Expleo Group | Embedded systems ,& automotive| Not Known |  |
+| QUANTTRONIX | Embedded systems ,& automotive| Egypt, Giza |<p>linkedin<a href="https://www.linkedin.com/company/quanttronix/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3Ba4441943-433b-4aa3-a8e3-fc7ba83c350f" >🔗</a> OR Company site career<a href="https://quanttronix.com/" >🔗</a></p> |
+| Arrow Electronics | Embedded systems & automotive| Cairo  |<p>linkedin<a href="https://www.linkedin.com/company/arrow-electronics/jobs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3B0MNnGE44QZSSUoIGlWFYQQ%3D%3D" >🔗</a> OR Company site career<a href="https://careers.arrow.com/us/en/technical" >🔗</a></p> |
+| Expleo Group | Embedded systems ,& automotive| Egypt | <p>linkedin<a href="https://www.linkedin.com/company/expleo-group/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_about_index%3Ba4441943-433b-4aa3-a8e3-fc7ba83c350f" >🔗</a> OR Company site career<a href="https://careers-expleo-jobs.icims.com/jobs/search?pr=0&searchLocation=13049&schemaId=&o=" >🔗</a></p> |
 | Techfueld |Autonomous Driving  ,Infotainment & Connectivity  ,Embedded software ,AI and Navigation | Not Known |  |
 | Luxoft | Embedded systems ,& automotive| Not Known |  |
 | European Recruitment | Embedded systems & autonomous | Not Known |  |
