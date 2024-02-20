@@ -30,9 +30,9 @@
 | Magna International | Embedded systems | Not Known | Germen |
 | EDAG Group | Embedded systems | Not Known |  |
 | dcscorp | Embedded systems & ROS for arms🙃 | Not Known | Alexandria, Virginia |
-| egyrobo |
-| CyTwin Lab |  Embedded systems | Not Known | Heliopolis, Cairo |
-| Smart Life |  Embedded systems | Not Known | Heliopolis, Cairo |
+| egyrobo | Embedded systems & ROS & C++ | Heliopolis, Nozha, Cairo | <p>linkedin<a href="https://www.linkedin.com/company/egyrobo-robotics/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3B10929388-d91e-44f6-ac63-9f8df94292bb" >🔗</a> OR Company site career<a href="https://www.egyrobo.com/careers/vacancies/" >🔗</a></p> |
+| CyTwin Lab |  Embedded systems | Heliopolis, Cairo | <p>linkedin<a href="https://www.linkedin.com/company/cywinlab/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3B10929388-d91e-44f6-ac63-9f8df94292bb" >🔗</a> OR Company site career<a href="https://www.cytwinlab.net/" >🔗</a></p> |
+| Smart Life |  Embedded systems | Heliopolis, Cairo |<p>linkedin<a href="https://www.linkedin.com/company/smartlifeco/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_about_index%3B10929388-d91e-44f6-ac63-9f8df94292bb" >🔗</a> OR Company site career :N/A</p>|
 | Alefbits |  Embedded systems | Not Known | Heliopolis October, Cairo |
 | Pylon (YC S21) |  Embedded systems and smart meter  | Not Known | 61 Syria Street, El Mohandseen |
 | VxLabs |  Embedded systems/ c++ /Autosar mainly | Not Known | Cairo, Cairo  /German|
