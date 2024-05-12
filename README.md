@@ -136,3 +136,4 @@
 | iSynclouds |  Embedded & IOT  |  | Cairo / Riyadh |
 | Intellias |  Embedded & AUTOSAR  |  | Cairo  |
 | NTG Clarity |  Embedded   |  | Cairo  |
+| Voyance Health |  Embedded IOT   |  | New Cairo  |
