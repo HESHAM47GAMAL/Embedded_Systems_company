@@ -137,3 +137,4 @@
 | Intellias |  Embedded & AUTOSAR  |  | Cairo  |
 | NTG Clarity |  Embedded   |  | Cairo  |
 | Voyance Health |  Embedded IOT   |  | New Cairo  |
+| NARSS |  Embedded sensing satellite  |  | El-Nozha El-Gedida  |
