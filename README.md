@@ -3,6 +3,7 @@
 |Embeeded company name | Details |  Place | Jobs Check |
 | :---: | :---: | :---:| :---: |
 | iono-tech |  Embedded classic |   Cairo |<p>linkedin<a href="https://www.linkedin.com/company/iono-tech/about/" >🔗</a> OR  Company site career :N/A</p> |
+| IRRI Vision |  Embedded & IOT |   Cairo |<p>linkedin<a href="https://www.linkedin.com/company/irri-vision/about/" >🔗</a> OR  Company site career :N/A</p> |
 | robustah |  Embedded & C++ |   Cairo   |<p>linkedin :N/A OR  Company site career<a href="https://apply.workable.com/robusta/" >🔗</a></p> |
 | Envision Employment Solutions |  Embedded classic & Linux & C++ |   New Heliopolis  |<p>linkedin<a href="https://www.linkedin.com/company/envision-employment-solutions/jobs/?lipi=urn%3Ali%3Apage%3Acompanies_company_jobs_jobs%3B42fdf20f-172f-4be5-b21a-43109958725a" >🔗</a> OR Company site career<a href="https://jobs.lever.co/envisionemploymentsolutions" >🔗</a></p> |
 | Confidential | Embedded systems & Autonomous ROS | Giza, Egypt | <p>linkedin<a href="https://www.linkedin.com/company/confidentialcompany/jobs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3BsCM2QGJBRE%2BUaePEGT6O%2BQ%3D%3D" >🔗</a> OR Company site career :N/A</p>|
