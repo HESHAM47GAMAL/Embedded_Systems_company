@@ -2,6 +2,8 @@
 
 |Embeeded company name | Details |  Place | Jobs Check |
 | :---: | :---: | :---:| :---: |
+| Smart EGAT |  IOT Solutions |   Giza |<p>linkedin<a href="https://www.linkedin.com/company/smart-egat/about/" >🔗</a> OR  Company site career :N/A</p> |
+| FORTEC EGYPT |  Embedded classic |   Cairo |<p>linkedin<a href="https://www.linkedin.com/company/fortecegypt/about/" >🔗</a> OR  Company site career :N/A</p> |
 | iono-tech |  Embedded classic |   Cairo |<p>linkedin<a href="https://www.linkedin.com/company/iono-tech/about/" >🔗</a> OR  Company site career :N/A</p> |
 | IRRI Vision |  Embedded & IOT |   Cairo |<p>linkedin<a href="https://www.linkedin.com/company/irri-vision/about/" >🔗</a> OR  Company site career :N/A</p> |
 | opentier |  Embedded & ROS |   Cairo |<p>linkedin<a href="https://www.linkedin.com/company/opentier/about/" >🔗</a> OR  Company site career :<a href="https://www.opentier.com/career" >🔗</a></p> |
